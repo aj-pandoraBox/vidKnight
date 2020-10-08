@@ -1,0 +1,155 @@
+
+@media only screen and (max-width:1315px)
+{
+     
+    .right h2{
+   
+    width: 90%;
+}
+
+}
+
+
+
+@media only screen and (max-width:1225px)
+{
+    
+
+    .btn-box{
+        width:60%
+    }    
+    
+.btn-search{
+       
+    margin-left: 35px;
+}
+    
+    
+    
+    
+}
+
+
+@media only screen and (max-width:1060px)
+{
+
+  .btn-box{
+        width:80%
+    }    
+     .welcome-box h1{
+    font-size: 40px;
+    }
+
+}
+
+    
+
+
+@media only screen and (max-width:886px)
+{
+    
+    header{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    border-radius: 0;
+}
+
+    
+    .left{
+        width: 100%;
+        height: 80%;
+    }
+    .right{
+        
+        width: 100%;
+    }
+  
+    .shift-right {
+        top:10%;
+
+        width: 80%;
+        margin: 0 auto;
+        align-items: center;
+        margin-left: 17%;
+    }
+
+    
+    
+    
+    
+    
+    
+}
+
+
+@media only screen and (max-width:500px)
+{
+    .welcome-box{
+
+    transform: translate(-50%,-50%);
+    }
+    
+    .welcome-box h1 {
+            font-size: 34px;
+
+    }
+    
+    .shift-right {
+        top:10%;
+
+        width: 95%;
+        margin: 0 auto;
+        align-items: center;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-height:600px)
+{
+    .shift-right {
+        
+        top:2%;
+        
+    }
+    
+    
+}
+
+@media only screen and (max-height:500px)
+{
+   header{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+        border-radius: 0;
+}
+
+    
+    .left{
+        width: 100%;
+        height: 80%;
+    }
+    .right{
+        
+        width: 100%;
+        
+    }
+  
+    .shift-right {
+        top:10%;
+
+        width: 80%;
+        margin: 0 auto;
+        align-items: center;
+        margin-left: 17%;
+        overflow-y: hidden;
+    }
+    
+    .registerhere_tag{
+        padding-bottom: 30px;
+    }
+    
+    
+}
+
