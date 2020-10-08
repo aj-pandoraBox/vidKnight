@@ -1,4 +1,6 @@
 # vidKnight
+devloped by AJAY MANDANI / languages:- PHP,JAVASCRIPT,MYSQL,HTML,CSS
+
 vidKnight provides a service to make your own OTT Channel/Product like Netflix, amazonPrime, AppleTv etc
 
 Note:
